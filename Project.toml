@@ -1,6 +1,6 @@
 name = "Diamond_jll"
 uuid = "cf5bb7c9-ab56-52de-8deb-a2cf8e1fd3a3"
-version = "2.1.6+0"
+version = "2.1.7+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"

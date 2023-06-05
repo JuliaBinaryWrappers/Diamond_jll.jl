@@ -1,124 +1,124 @@
 [[Diamond]]
 arch = "aarch64"
-git-tree-sha1 = "ea8e84fb633ee63dceca348696963f913082ddbf"
+git-tree-sha1 = "e19366de665e81d3e41c374e0c9f046fcedbb49e"
 os = "macos"
 
     [[Diamond.download]]
-    sha256 = "2421151066089858775891debb5845d25a650bcf8466ea5ccb88821a80788f9e"
-    url = "https://github.com/JuliaBinaryWrappers/Diamond_jll.jl/releases/download/Diamond-v2.1.6+0/Diamond.v2.1.6.aarch64-apple-darwin.tar.gz"
+    sha256 = "d0a75518ed62c02fee1bdde2be21ee7c2edc8d31d3fa9fecdeb4e79388d514fa"
+    url = "https://github.com/JuliaBinaryWrappers/Diamond_jll.jl/releases/download/Diamond-v2.1.7+0/Diamond.v2.1.7.aarch64-apple-darwin.tar.gz"
 [[Diamond]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "322321b1caef220e6c33b65666ab95e682917d6c"
+git-tree-sha1 = "3972ac238b7aaffa054e7f24004876f5a56e5e5c"
 libc = "glibc"
 os = "linux"
 
     [[Diamond.download]]
-    sha256 = "57f9620210e6c7b1edfb2219512859b47e3b22dcc4d2934f30550882cd176040"
-    url = "https://github.com/JuliaBinaryWrappers/Diamond_jll.jl/releases/download/Diamond-v2.1.6+0/Diamond.v2.1.6.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "74b71a600bfbcdc4ebb19a2aefe847103ac4fea7ec4c2aa6c6249615a2a643b9"
+    url = "https://github.com/JuliaBinaryWrappers/Diamond_jll.jl/releases/download/Diamond-v2.1.7+0/Diamond.v2.1.7.aarch64-linux-gnu-cxx03.tar.gz"
 [[Diamond]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3a795c7ae431f07edcea48133bb466b02cbffd5c"
+git-tree-sha1 = "c2d81b284d782ec2f1341c2e6f21a9a352a4684e"
 libc = "glibc"
 os = "linux"
 
     [[Diamond.download]]
-    sha256 = "b310b383b541cd43156a2d47b2329f5d998e2ca08e6879950e43cbb0cf403276"
-    url = "https://github.com/JuliaBinaryWrappers/Diamond_jll.jl/releases/download/Diamond-v2.1.6+0/Diamond.v2.1.6.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "69751c71ad33b4a9edeaed72975538aed92c0bf4decfdd1a6abafbf013c62ce6"
+    url = "https://github.com/JuliaBinaryWrappers/Diamond_jll.jl/releases/download/Diamond-v2.1.7+0/Diamond.v2.1.7.aarch64-linux-gnu-cxx11.tar.gz"
 [[Diamond]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "377c383d11103e32c9c8c46936476f6b8f872bd9"
+git-tree-sha1 = "59977c13f40afd6fdc1592e3ffb79a808c366d95"
 libc = "musl"
 os = "linux"
 
     [[Diamond.download]]
-    sha256 = "d3f6b0568a6d7894bfdb0478354cf546716c014cb945e19072b447579e1a65a7"
-    url = "https://github.com/JuliaBinaryWrappers/Diamond_jll.jl/releases/download/Diamond-v2.1.6+0/Diamond.v2.1.6.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "5351c9f4b130bf3734154299f938c24319df70e0d42288e5d0b3955620c16c77"
+    url = "https://github.com/JuliaBinaryWrappers/Diamond_jll.jl/releases/download/Diamond-v2.1.7+0/Diamond.v2.1.7.aarch64-linux-musl-cxx03.tar.gz"
 [[Diamond]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5eef21f79e14fac95e71637ab2a7dbbc44d3568a"
+git-tree-sha1 = "63cc249fee669cbec09437e754857720873cf435"
 libc = "musl"
 os = "linux"
 
     [[Diamond.download]]
-    sha256 = "72df247fc81e5be80574691f552d6510236f9cc736a0fd6ce5d6dc9f1d883549"
-    url = "https://github.com/JuliaBinaryWrappers/Diamond_jll.jl/releases/download/Diamond-v2.1.6+0/Diamond.v2.1.6.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "468ff23d53082eb4a5de2da53b1e429cd5f7532cc599d05f0ca07c368d5e9e9b"
+    url = "https://github.com/JuliaBinaryWrappers/Diamond_jll.jl/releases/download/Diamond-v2.1.7+0/Diamond.v2.1.7.aarch64-linux-musl-cxx11.tar.gz"
 [[Diamond]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f525ac90feaa4295e72cf4c2e51c053eb01b0af7"
+git-tree-sha1 = "962ce40c6900c92fcf064f2a18a8f701b17e10f0"
 libc = "glibc"
 os = "linux"
 
     [[Diamond.download]]
-    sha256 = "4f51cb07567a28f7c0cee62cb6b1239837be5a91e58c125618c5d706eebda5fc"
-    url = "https://github.com/JuliaBinaryWrappers/Diamond_jll.jl/releases/download/Diamond-v2.1.6+0/Diamond.v2.1.6.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "1b6610ab108596ffb206dd3baf122c219bffc3327c1b0bf2adbc3d82c20a3218"
+    url = "https://github.com/JuliaBinaryWrappers/Diamond_jll.jl/releases/download/Diamond-v2.1.7+0/Diamond.v2.1.7.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[Diamond]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7d2f91b3d1f3b83f6f359063d0d920c7f4887d6e"
+git-tree-sha1 = "6998fefdd70afb3118f3b81e885bbd63bd86bce8"
 libc = "glibc"
 os = "linux"
 
     [[Diamond.download]]
-    sha256 = "afa8b0ba734d4011611cf734fc34428c7630db4b65440cc56725817d4d6f126f"
-    url = "https://github.com/JuliaBinaryWrappers/Diamond_jll.jl/releases/download/Diamond-v2.1.6+0/Diamond.v2.1.6.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "754610a3b1dad6f5543d32e41ecbc742da11d8fa3653063d6f9d9c7ce31c20db"
+    url = "https://github.com/JuliaBinaryWrappers/Diamond_jll.jl/releases/download/Diamond-v2.1.7+0/Diamond.v2.1.7.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[Diamond]]
 arch = "x86_64"
-git-tree-sha1 = "6a4a79f83ce142d4702714290e0be7d0cdc199ce"
+git-tree-sha1 = "8a7e74ecaf63a58e388e6d5a6cadd927f7f194c0"
 os = "macos"
 
     [[Diamond.download]]
-    sha256 = "3c50c8b9e39d674a07ba1bb0ad7432be7c342f1ee231f6b59bc250bbcbb1aed5"
-    url = "https://github.com/JuliaBinaryWrappers/Diamond_jll.jl/releases/download/Diamond-v2.1.6+0/Diamond.v2.1.6.x86_64-apple-darwin.tar.gz"
+    sha256 = "7180c18438f14d3ef0370248d5e63084c1e979d041bb6bf4806826364bf1e9b4"
+    url = "https://github.com/JuliaBinaryWrappers/Diamond_jll.jl/releases/download/Diamond-v2.1.7+0/Diamond.v2.1.7.x86_64-apple-darwin.tar.gz"
 [[Diamond]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "17f2595d4150a08aedc451ea7959d9adab63db4d"
+git-tree-sha1 = "79d64b65aefe467484600f8509c636a42e6fd1e3"
 libc = "glibc"
 os = "linux"
 
     [[Diamond.download]]
-    sha256 = "6331b90d1c7c6915ef6fbb13a009f5d730602852f7bea85316f93db637436931"
-    url = "https://github.com/JuliaBinaryWrappers/Diamond_jll.jl/releases/download/Diamond-v2.1.6+0/Diamond.v2.1.6.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "ae2dd7ac6eae188c979ff3606eb9a548313f9e27f5c1716d87370eec6c3610ef"
+    url = "https://github.com/JuliaBinaryWrappers/Diamond_jll.jl/releases/download/Diamond-v2.1.7+0/Diamond.v2.1.7.x86_64-linux-gnu-cxx03.tar.gz"
 [[Diamond]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "644aa7b4cf52d46689c8a58707eaad8d43c1c2a1"
+git-tree-sha1 = "018db71d5b00c542c661c6e605d2f3468601a710"
 libc = "glibc"
 os = "linux"
 
     [[Diamond.download]]
-    sha256 = "977c7776390e46bc94421376209fb59a2a627cf87548f3906cf3105fa96ebe0a"
-    url = "https://github.com/JuliaBinaryWrappers/Diamond_jll.jl/releases/download/Diamond-v2.1.6+0/Diamond.v2.1.6.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "98bac3fbe504e32bbbb1cf91af21594afa74060f779fa31e369322ccd10d197b"
+    url = "https://github.com/JuliaBinaryWrappers/Diamond_jll.jl/releases/download/Diamond-v2.1.7+0/Diamond.v2.1.7.x86_64-linux-gnu-cxx11.tar.gz"
 [[Diamond]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1fda668a6b9952891e94cea29f2a10f8cdabded3"
+git-tree-sha1 = "04ce1613e3581d44f10b6e41d63831f3af1c437b"
 libc = "musl"
 os = "linux"
 
     [[Diamond.download]]
-    sha256 = "60948eb9fee8a950ade55aa7ea1a1bd5ba0360212826f903c1fb66990df45228"
-    url = "https://github.com/JuliaBinaryWrappers/Diamond_jll.jl/releases/download/Diamond-v2.1.6+0/Diamond.v2.1.6.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "30c9da9ad0083eb870289689b59f36764d0b7d1f2868063fcf902d4cdc9a4b02"
+    url = "https://github.com/JuliaBinaryWrappers/Diamond_jll.jl/releases/download/Diamond-v2.1.7+0/Diamond.v2.1.7.x86_64-linux-musl-cxx03.tar.gz"
 [[Diamond]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5eceb71f7999bb7b67aedfd8bcf0fcaed9a1a686"
+git-tree-sha1 = "dff843d13eaecd8e65e28138b9e6b9b868cfc3f0"
 libc = "musl"
 os = "linux"
 
     [[Diamond.download]]
-    sha256 = "2cb871c34381e7193ca9bd347f76cc97e950153c0f868dee5c5ce0e19079f09b"
-    url = "https://github.com/JuliaBinaryWrappers/Diamond_jll.jl/releases/download/Diamond-v2.1.6+0/Diamond.v2.1.6.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "73fa66f81df4586720f2509ddefab224e8eb3de96c57732c3bfec88ada0f63be"
+    url = "https://github.com/JuliaBinaryWrappers/Diamond_jll.jl/releases/download/Diamond-v2.1.7+0/Diamond.v2.1.7.x86_64-linux-musl-cxx11.tar.gz"
 [[Diamond]]
 arch = "x86_64"
-git-tree-sha1 = "f44cde043099173deeab764cb26adf2b5c0c2508"
+git-tree-sha1 = "e1bdf3c6dac28817f3f1fbc043a93f26b6fd8e24"
 os = "freebsd"
 
     [[Diamond.download]]
-    sha256 = "0d7ff9a1704bd10d88ff5b569a7450e34c08dbf5a77827708e1d41988e33ce83"
-    url = "https://github.com/JuliaBinaryWrappers/Diamond_jll.jl/releases/download/Diamond-v2.1.6+0/Diamond.v2.1.6.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "3fa6f6003679849118fbc48ab243bab5bb1c6313fb1ca3af0bccf6f317b964e9"
+    url = "https://github.com/JuliaBinaryWrappers/Diamond_jll.jl/releases/download/Diamond-v2.1.7+0/Diamond.v2.1.7.x86_64-unknown-freebsd.tar.gz"
